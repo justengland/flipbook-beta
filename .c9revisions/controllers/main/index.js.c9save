@@ -1,5 +1,0 @@
-{"ts":1368754761870,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"\nexports.index = function(req, res){\n  res.redirect('/users');\n};"]],"start1":0,"start2":0,"length1":0,"length2":65}]],"length":65}
-{"contributors":[],"silentsave":false,"ts":1368754955817,"patch":[[{"diffs":[[0,"{\n  "],[1," "],[0,"res.re"],[-1,"direct('/users'"],[1,"nder('index', { user: req.user }"],[0,");\n}"]],"start1":35,"start2":35,"length1":29,"length2":47}]],"length":83,"saved":false}
-{"contributors":[],"silentsave":false,"ts":1368757092989,"patch":[[{"diffs":[[0,", { "],[-1,"user: req.user"],[0," });"]],"start1":58,"start2":58,"length1":22,"length2":8}]],"length":69,"saved":false}
-{"contributors":[],"silentsave":false,"ts":1368761087641,"patch":[[{"diffs":[[0,"dex', { "],[1,"layout: 'lo', title: 'My site'"],[0," });\n};"]],"start1":54,"start2":54,"length1":15,"length2":45}]],"length":99,"saved":false}
-{"ts":1368761180075,"patch":[[{"diffs":[[0,"', {"],[-1," layout: 'lo',"],[0," tit"]],"start1":57,"start2":57,"length1":22,"length2":8},{"diffs":[[0,"'My site"],[1," 2"],[0,"' });\n};"]],"start1":69,"start2":69,"length1":16,"length2":18}]],"length":87,"saved":false}

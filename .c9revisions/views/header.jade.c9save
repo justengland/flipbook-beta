@@ -1,4 +1,0 @@
-{"ts":1368757028084,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"head\n  title Jade Example\n  link(rel=\"stylesheet\", href=\"/stylesheets/style.css\")"]],"start1":0,"start2":0,"length1":0,"length2":81}]],"length":81}
-{"contributors":[],"silentsave":false,"ts":1368757043832,"patch":[[{"diffs":[[0,"ade "],[-1,"Example"],[1,"Header"],[0,"\n  l"]],"start1":14,"start2":14,"length1":15,"length2":14}]],"length":80,"saved":false}
-{"contributors":[],"silentsave":false,"ts":1368887594380,"patch":[[{"diffs":[[0,"yles"],[-1,"heets/style.c"],[1,"/main.le"],[0,"ss\")"]],"start1":59,"start2":59,"length1":21,"length2":16}]],"length":75,"saved":false}
-{"ts":1368887626818,"patch":[[{"diffs":[[0,"ader"],[-1,"\n  link(rel=\"stylesheet\", href=\"/styles/main.less\")"]],"start1":20,"start2":20,"length1":55,"length2":4}]],"length":24,"saved":false}
